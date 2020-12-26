@@ -1,10 +1,11 @@
 {
-  "name": "service-worker-mock",
-  "version": "2.0.5",
+  "name": "@blossa/service-worker-mock",
+  "version": "2.1.0",
   "main": "index.js",
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/pinterest/service-workers.git"
+    "url": "https://github.com/MichaelCereda/service-workers.git"
   },
   "files": [
     "index.js",
@@ -19,8 +20,8 @@
     "testing",
     "mock"
   ],
-  "homepage": "https://github.com/pinterest/service-workers/tree/master/packages/service-worker-mock",
-  "author": "zackargyle",
+  "homepage": "https://github.com/MichaelCereda/service-workers/tree/master/packages/service-worker-mock",
+  "author": "Michael Cereda",
   "license": "MIT",
   "dependencies": {
     "dom-urls": "^1.1.0",
